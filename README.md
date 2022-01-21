@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UtsavDhankhar
 - 👀 I’m interested in Deep learning, Game Devlopment and Web Devlopment projects in particluar.
-- 🌱 I’m currently learning Django for Web Devlopment
+- 🌱 I’m currently revisiting Django for Web Devlopment
 - 💞️ I’m looking to collaborate on Deep Learning and Web devlopment projects.
 - 📫 How to reach me...
 
